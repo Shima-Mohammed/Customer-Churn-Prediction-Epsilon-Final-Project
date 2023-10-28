@@ -1,0 +1,17 @@
+Customer_id,Gender,Age,Married,NumberofDependents,NumberofReferrals,TenureinMonths,Offer,PhoneService,MultipleLines,InternetService,InternetType,AvgMonthlyGBDownload,OnlineSecurity,OnlineBackup,DeviceProtectionPlan,PremiumTechSupport,StreamingTV,StreamingMovies,StreamingMusic,UnlimitedData,Contract,PaperlessBilling,PaymentMethod,MonthlyCharge
+23,Female,37,Yes,0,2,9,No Offer,Yes,No,Yes,Cable,16,No,Yes,No,Yes,Yes,No,No,Yes,One Year,Yes,Credit Card,65.6
+654,Male,50,No,0,0,4,Offer E,Yes,No,Yes,Fiber Optic,30,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,73.9
+431,Male,78,Yes,0,1,13,Offer D,Yes,No,Yes,Fiber Optic,4,No,Yes,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Bank Withdrawal,98
+3434,Female,75,Yes,0,3,3,No Offer,Yes,No,Yes,Fiber Optic,11,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,83.9
+8764,Female,23,No,3,0,9,Offer E,Yes,No,Yes,Cable,73,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,69.4
+123,Female,67,Yes,0,1,71,Offer A,Yes,No,Yes,Fiber Optic,14,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Bank Withdrawal,109.7
+436,Male,52,Yes,0,8,63,Offer B,Yes,Yes,Yes,Fiber Optic,7,Yes,No,No,Yes,No,No,No,No,Two Year,Yes,Credit Card,84.65
+981,Female,68,No,0,0,7,Offer E,Yes,No,Yes,DSL,21,Yes,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,48.2
+508,Female,43,Yes,1,3,65,No Offer,Yes,Yes,Yes,Cable,14,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,90.45
+800,Male,47,No,0,0,54,No Offer,No,No PhoneService,Yes,Cable,10,Yes,No,No,Yes,Yes,No,No,Yes,Two Year,No,Credit Card,45.2
+9042,Female,25,Yes,2,2,72,No Offer,Yes,Yes,Yes,Fiber Optic,59,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Two Year,Yes,Credit Card,116.8
+431,Female,58,Yes,0,0,5,No Offer,Yes,No,Yes,Fiber Optic,10,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,68.95
+987,Female,32,No,0,0,72,Offer A,Yes,Yes,Yes,Fiber Optic,16,Yes,Yes,Yes,No,Yes,No,No,Yes,Two Year,Yes,Bank Withdrawal,101.3
+3453,Female,39,No,0,0,56,No Offer,No,No PhoneService,Yes,DSL,19,Yes,Yes,Yes,Yes,No,No,No,Yes,Two Year,No,Bank Withdrawal,45.05
+653,Female,58,Yes,2,9,71,Offer A,Yes,Yes,Yes,Fiber Optic,12,No,Yes,Yes,No,No,Yes,Yes,Yes,Two Year,Yes,Credit Card,95.75
+1233,Male,52,Yes,1,0,34,No Offer,Yes,No PhoneService,Yes,DSL,20,Yes,No,Yes,Yes,No,Yes,Yes,No,Two Year,No,Bank Withdrawal,50
